@@ -72,7 +72,7 @@ Please download the <a href = "https://drive.google.com/file/d/1ZuUiUB6CK66lMxYH
 <h2 align= "left"><b>Demo Video and PPT Link 👇</b></h2>
 
 - PPT Link : <a href="https://drive.google.com/file/d/19NOs6w7x6zuga46r0xYIOiXtwKYpWHP7/view?usp=sharing" target="_blank">PPTX</a>
-- Youtube Proposal Video : <a href="#">Video </a>
+- Youtube Proposal Video : <a href="https://youtu.be/_oActuoYjY0">Video </a>
 
 <br/> 
 
